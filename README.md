@@ -16,3 +16,5 @@ Some rules:
 
 - Do not use specific customer names, keep it generic.
 - Be kind and helpful. We are all here to help.
+
+**Note**: We can be multi-cloud here. Azure/M365, AWS, GCP. If you want your scenario/request answered with one of these hyperscalers specifically, please specify in the issue post. Thank you.
