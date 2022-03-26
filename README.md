@@ -1,4 +1,4 @@
-# security
+# Security scenarios for Developers and IT Pros
 
 This is the start of a community project project to outline real world projects and scenarios for Dev and IT-Pros.
 
